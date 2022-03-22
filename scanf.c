@@ -2,7 +2,7 @@
 
 int main ()
 {
-    //Lordello22 
+    //Lordello22: Calculo da Área do Trapézio 
 
     int suabasemaior; 
     int suabasemenor;
